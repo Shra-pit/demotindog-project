@@ -1,0 +1,148 @@
+.body{
+  font-family: "Montserrat";
+}
+#title{
+  background-color: #ff4c68!important;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 34px;
+}
+h1{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+/* Navigation bar*/
+.navbar{
+  padding: 0 0 4.5rem 0;
+
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.nav-item{
+  padding: 0 10px;
+  font-family: "Montserrat";
+}
+.nav-link{
+  font-size: 1.2rem;
+
+}
+/*buttons*/
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 60%;
+  transform: rotate(16deg);
+  padding: 1.2rem 0;
+}
+.fab{
+  padding-right: 15px;
+}
+
+/*features*/
+#features{
+  background-color: #F5D9E4;
+margin-top: 0;
+padding-top: 174px;
+padding-bottom: 150px;
+}
+h2{
+  font-family: 'Montserrat',sans-serif;
+  line-height: 1.5;
+  font-size: 22px;
+}
+
+.fas{
+  color:#F15954;
+  margin: 13px;
+}
+.far{
+  color: #F15954;
+  margin: 13px;
+}
+
+.rounded{
+  height: 80px;
+  width: 85px;
+}
+
+.dog{
+  background-color: #F5D9E4!important;
+  text-align: center;
+}
+
+/*Sliding part*/
+#slidingpart{
+  background-color: #F1547C;
+margin-top: 0;
+text-align: center;
+}
+.slideme{
+  border-radius: 176px;
+}
+h3{
+  margin-top: 50px;
+}
+
+/*Brands*/
+#sponsors{
+  width: 100%;
+  background-color: #F1547C;
+  text-align: center;
+}
+.brands{
+  padding-top: 53px;
+padding-bottom: 54px;
+}
+
+/*online payments*/
+#payments{
+  margin: 3.5rem;
+  text-align: center;
+}
+.dollar{
+padding-top: 40px;
+}
+h4{
+  color: #615D5E;
+  font-family: Ubuntu,cursive;
+  font-size: 35px;
+}
+/*ENDING*/
+
+.bottom-portion{
+  padding-top: 40px;
+  text-align: center;
+  background-color: #FCBDCD;
+  padding-bottom: 20px;
+}
+h6{
+  color: #615D5E;
+  text-shadow:3px 2px #F750C4;
+  font-family: Montserrat, cursive;
+  font-size: 35px;
+}
+.best{
+  font-size: 21px;
+  padding-bottom: 30px;
+}
+.footer-link{
+  padding: 30px 50px;
+  font-size: 28px;
+  text-decoration: none;
+  color: #680148;
+  font-family:Ubuntu, cursive;
+}
+a:hover{
+  color: #F9F6F8;
+}
+.copyrights{
+  padding-top: 40px;
+}
